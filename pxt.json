@@ -3,8 +3,9 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "v2": "*",
-        "funk": "*"
+        "funk": "*",
+        "MotionKit": "github:tinysuperlab/motionkit#30d5357f41a72d0db3d343399c844236354e5edb",
+        "v1": "*"
     },
     "files": [
         "main.blocks",
