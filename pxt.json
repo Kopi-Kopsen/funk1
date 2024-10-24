@@ -5,7 +5,8 @@
         "core": "*",
         "funk": "*",
         "MotionKit": "github:tinysuperlab/motionkit#30d5357f41a72d0db3d343399c844236354e5edb",
-        "v1": "*"
+        "v1": "*",
+        "MotionKit V2": "github:tinysuperlab/motionkitv2#71deb206e573bef6d45615cb04ef7587c6e68820"
     },
     "files": [
         "main.blocks",
